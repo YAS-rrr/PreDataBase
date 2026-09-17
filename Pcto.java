@@ -1,8 +1,8 @@
-public class pcto{
+public class Pcto{
     private int id;
     private String azienda;
 
-    public pcto(int id, String azienda) {
+    public Pcto(int id, String azienda) {
         this.id = id;
         this.azienda = azienda;
     }

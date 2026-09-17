@@ -1,8 +1,8 @@
-public class nome {
+public class Vacanze {
     private int id;
     private String nome;
 
-    public nome(int id, String nome) {
+    public Vacanze(int id, String nome) {
         this.id = id;
         this.nome = nome;
     }
@@ -19,7 +19,7 @@ public class nome {
     public void setId(int id) {
         this.id = id;
     }
-
+    
     public void setNome(String nome) {
         this.nome = nome;
     }

@@ -1,8 +1,8 @@
-public class vacanze {
+public class Nome {
     private int id;
     private String nome;
 
-    public vacanze(int id, String nome) {
+    public Nome(int id, String nome) {
         this.id = id;
         this.nome = nome;
     }
@@ -19,7 +19,7 @@ public class vacanze {
     public void setId(int id) {
         this.id = id;
     }
-    
+
     public void setNome(String nome) {
         this.nome = nome;
     }
